@@ -1,0 +1,7 @@
+# Large map data #
+##################
+data/uac/
+
+# IPython notbook checkpoint #
+##############################
+src/.ipynb_checkpoints/
